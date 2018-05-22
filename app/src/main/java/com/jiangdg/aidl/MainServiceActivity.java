@@ -6,6 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.jiangdg.keepappalive.R;
 
+/**
+ * https://github.com/hejunlin2013/MultiMediaSample
+ */
 public class MainServiceActivity extends AppCompatActivity {
 
     @Override
